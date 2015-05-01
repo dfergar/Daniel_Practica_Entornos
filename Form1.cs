@@ -20,75 +20,7 @@ namespace WindowsFormsApplication1
            
         }
 
-        private void checkBox0_CheckedChanged(object sender, EventArgs e)
-        {
-            if (checkBox0.Checked == true) v0 = 0; else v0 = nulo;
-            calcular();
-        }
-
-        private void checkBox1_CheckedChanged(object sender, EventArgs e)
-        {
-            if (checkBox1.Checked == true) v1 = 1; else v1 = nulo;
-            calcular();
-           
-        }
-
-        private void checkBox2_CheckedChanged(object sender, EventArgs e)
-        {
-            if (checkBox2.Checked == true) v2 = 2; else v2 = nulo ;
-            calcular();
-            
-        }
-
-        private void checkBox3_CheckedChanged(object sender, EventArgs e)
-        {
-            if (checkBox3.Checked == true) v3 = 3; else v3 = nulo;
-            calcular();
-
-        }
-
-        private void checkBox4_CheckedChanged(object sender, EventArgs e)
-        {
-            if (checkBox4.Checked == true) v4 = 4; else v4 = nulo;
-            calcular();
-           
-        }
-
-        private void checkBox5_CheckedChanged(object sender, EventArgs e)
-        {
-            if (checkBox5.Checked == true) v5 = 5; else v5 = nulo;
-            calcular();
-            
-        }
-
-        private void checkBox6_CheckedChanged(object sender, EventArgs e)
-        {
-            if (checkBox6.Checked == true) v6 = 6; else v6 = nulo;
-            calcular();
-            
-        }
-
-        private void checkBox7_CheckedChanged(object sender, EventArgs e)
-        {
-            if (checkBox7.Checked == true) v7 = 7; else v7 = nulo;
-            calcular();
-           
-        }
-
-
-        private void checkBox8_CheckedChanged(object sender, EventArgs e)
-        {
-            if (checkBox8.Checked == true) v8 = 8; else v8 = nulo;
-            calcular();
-           
-        }
-
-        private void checkBox9_CheckedChanged(object sender, EventArgs e)
-        {
-            if (checkBox9.Checked == true) v9 = 9; else v9 = nulo;
-            calcular();
-           
-        }
+       
 
         private void calcular()
         {
