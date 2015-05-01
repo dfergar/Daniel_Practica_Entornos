@@ -180,11 +180,13 @@
             // 
             // resultado
             // 
-            this.resultado.Location = new System.Drawing.Point(523, 167);
+            this.resultado.Location = new System.Drawing.Point(496, 128);
+            this.resultado.Multiline = true;
             this.resultado.Name = "resultado";
-            this.resultado.Size = new System.Drawing.Size(100, 20);
+            this.resultado.Size = new System.Drawing.Size(123, 107);
             this.resultado.TabIndex = 12;
             this.resultado.Text = "Resultado";
+            this.resultado.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // Form1
             // 
