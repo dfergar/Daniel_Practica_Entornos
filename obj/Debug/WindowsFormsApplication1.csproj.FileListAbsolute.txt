@@ -16,3 +16,6 @@ C:\Users\1DAW\Desktop\Daniel_Fernández_Garcia\examen recuperacion programacion\
 C:\Users\1DAW\Desktop\Daniel_Fernández_Garcia\examen recuperacion programacion\Ejercicio_3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 C:\Users\1DAW\Desktop\Daniel_Fernández_Garcia\examen recuperacion programacion\Ejercicio_3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
 C:\Users\1DAW\Desktop\Daniel_Fernández_Garcia\examen recuperacion programacion\Ejercicio_3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\TRABAJOS\Entornos de desarrollo\PRACTICA 5_1\examen recuperacion programacion\Ejercicio_3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\TRABAJOS\Entornos de desarrollo\PRACTICA 5_1\examen recuperacion programacion\Ejercicio_3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\TRABAJOS\Entornos de desarrollo\PRACTICA 5_1\examen recuperacion programacion\Ejercicio_3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
