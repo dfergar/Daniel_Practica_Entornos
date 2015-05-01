@@ -92,6 +92,16 @@ namespace WindowsFormsApplication1
 
         private void calcular()
         {
+            if (checkBox9.Checked == true) v9 = 9; else v9 = nulo;
+            if (checkBox8.Checked == true) v8 = 8; else v8 = nulo;
+            if (checkBox6.Checked == true) v6 = 6; else v6 = nulo;
+            if (checkBox7.Checked == true) v7 = 7; else v7 = nulo;
+            if (checkBox5.Checked == true) v5 = 5; else v5 = nulo;
+            if (checkBox4.Checked == true) v4 = 4; else v4 = nulo;
+            if (checkBox3.Checked == true) v3 = 3; else v3 = nulo;
+            if (checkBox2.Checked == true) v2 = 2; else v2 = nulo;
+            if (checkBox1.Checked == true) v1 = 1; else v1 = nulo;
+            if (checkBox0.Checked == true) v0 = 0; else v0 = nulo;
             if (nulo == 0)
             {
                 resultado.Text = Convert.ToString(v0 + v1 + v2 + v3 + v4 + v5 + v6 + v7 + v8 + v9);
@@ -105,56 +115,14 @@ namespace WindowsFormsApplication1
 
         private void suma_CheckedChanged(object sender, EventArgs e)
         {
-            nulo = 0;
-            if (checkBox4.Checked == true) v4 = 4; else v4 = nulo;
-            calcular();
-            if (checkBox7.Checked == true) v7 = 7; else v7 = nulo;
-            calcular();
-            if (checkBox9.Checked == true) v9 = 9; else v9 = nulo;
-            calcular();
-            if (checkBox8.Checked == true) v8 = 8; else v8 = nulo;
-            calcular();
-            if (checkBox6.Checked == true) v6 = 6; else v6 = nulo;
-            calcular();
-            if (checkBox5.Checked == true) v5 = 5; else v5 = nulo;
-            calcular();
-            if (checkBox3.Checked == true) v3 = 3; else v3 = nulo;
-            calcular();
-            if (checkBox2.Checked == true) v2 = 2; else v2 = nulo;
-            calcular();
-            if (checkBox1.Checked == true) v1 = 1; else v1 = nulo;
-            calcular();
-            if (checkBox0.Checked == true) v0 = 0; else v0 = nulo;
-            calcular();
-           
-            calcular();
+            nulo = 0;           
+            calcular();          
+          
         }
 
         private void multiplicacion_CheckedChanged(object sender, EventArgs e)
         {
-            nulo = 1;
-            if (checkBox4.Checked == true) v4 = 4; else v4 = nulo;
-            calcular();
-            if (checkBox7.Checked == true) v7 = 7; else v7 = nulo;
-            calcular();
-            if (checkBox9.Checked == true) v9 = 9; else v9 = nulo;
-            calcular();
-            if (checkBox8.Checked == true) v8 = 8; else v8 = nulo;
-            calcular();
-            if (checkBox6.Checked == true) v6 = 6; else v6 = nulo;
-            calcular();
-            if (checkBox5.Checked == true) v5 = 5; else v5 = nulo;
-            calcular();
-            if (checkBox3.Checked == true) v3 = 3; else v3 = nulo;
-            calcular();
-            if (checkBox2.Checked == true) v2 = 2; else v2 = nulo;
-            calcular();
-            if (checkBox1.Checked == true) v1 = 1; else v1 = nulo;
-            calcular();
-            if (checkBox0.Checked == true) v0 = 0; else v0 = nulo;
-            calcular();
-            
-                     
+            nulo = 1;              
             calcular();
         }
 
