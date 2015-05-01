@@ -7,5 +7,5 @@ using System.Windows.Forms;
 namespace WindowsFormsApplication1
 {
 
-    ///Nuevo Fichero incorporado
+    Console.WriteLine("Prueba de Jesús");
 }
